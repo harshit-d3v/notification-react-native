@@ -2,12 +2,22 @@
   "name": "notification-react-native",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
+  "description": "A simple notification system for React Native applications.",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "keywords": [
+    "react-native",
+    "notification",
+    "context",
+    "hook",
+    "expo"
+  ],
+  "author": "Malicious-dev",
+  "license": "MIT",
   "dependencies": {
     "expo": "~51.0.26",
     "expo-status-bar": "~1.12.1",
